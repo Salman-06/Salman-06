@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently working with technologies like:
   - HTML, CSS, JavaScript, PHP
-  - NoSQL (MongoDB)
+  - MySQL
   - React.js
 
 - 💬 Ask me about **web development, full stack workflows, or scalable backend design**
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/salman-06) | [GitHub](https://github.com/salman-06)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanbarickm/) | [GitHub](https://github.com/salman-06)
 
 ---
 
@@ -39,7 +39,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/salman-06" target="_blank">
+  <a href="[https://linkedin.com/in/salman-06](https://www.linkedin.com/in/salmanbarickm/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/salman-06" target="_blank">
