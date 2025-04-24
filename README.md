@@ -39,7 +39,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="[https://linkedin.com/in/salman-06](https://www.linkedin.com/in/salmanbarickm/)" target="_blank">
+  <a href="https://www.linkedin.com/in/salmanbarickm/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/salman-06" target="_blank">
